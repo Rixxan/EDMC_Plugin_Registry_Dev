@@ -10,6 +10,8 @@ jobs:
   build_file:
     name: build unified plugin file
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Check out the repo
         uses: actions/checkout@v6
