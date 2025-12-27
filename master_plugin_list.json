@@ -9,7 +9,7 @@
       "Phil the Plugin Maker",
       "Geoffrey the Cat"
     ],
-    "pluginMainLink": "https://github.com/UserName/PluginName",
+    "pluginMainLink": "https://github.com/norohind/EDMC_SpanshRouter",
     "pluginLastUpdate": "2025-12-13",
     "pluginDirName": "plugin1",
     "pluginCategory": [
@@ -21,7 +21,8 @@
     "pluginLicense": "GPL-3.0-or-later",
     "pluginIcon": "https://hullseals.space/favicon.ico",
     "pluginVT": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-    "pluginHash": "NeverGonnaGiveYouUp"
+    "pluginHash": "NeverGonnaGiveYouUp",
+    "pluginStars": "21"
   },
   {
     "pluginName": "Plugin2",
@@ -32,7 +33,7 @@
     "pluginAuthors": [
       "Kevin"
     ],
-    "pluginMainLink": "https://github.com/UserName/PluginName",
+    "pluginMainLink": "https://github.com/canonn-science/EDMC-Canonn",
     "pluginLastUpdate": "2025-12-26",
     "pluginDirName": "plugin1",
     "pluginCategory": [
@@ -46,7 +47,8 @@
     "pluginLicense": "GPL-3.0-or-later",
     "pluginIcon": "",
     "pluginVT": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-    "pluginHash": "NeverGonnaGiveYouUp"
+    "pluginHash": "NeverGonnaGiveYouUp",
+    "pluginStars": "100"
   },
   {
     "pluginName": "werwerwr",
@@ -57,7 +59,7 @@
     "pluginAuthors": [
       "Xx_Plugin_xX"
     ],
-    "pluginMainLink": "https://github.com/UserName/PluginName",
+    "pluginMainLink": "https://github.com/aussig/BGS-Tally",
     "pluginLastUpdate": "2025-12-13",
     "pluginDirName": "pluginWessa",
     "pluginCategory": [
@@ -70,7 +72,8 @@
     "pluginLicense": "GPL-3.0-or-later",
     "pluginIcon": "https://hullseals.space/favicon.ico",
     "pluginVT": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-    "pluginHash": "NeverGonnaGiveYouUp"
+    "pluginHash": "NeverGonnaGiveYouUp",
+    "pluginStars": "49"
   },
   {
     "pluginName": "Plugin2",
@@ -81,7 +84,7 @@
     "pluginAuthors": [
       "Bobby TwoShits"
     ],
-    "pluginMainLink": "https://github.com/UserName/PluginName",
+    "pluginMainLink": "https://gitlab.com/flat-galaxy/flattrack",
     "pluginLastUpdate": "2025-11-13",
     "pluginDirName": "afdafda",
     "pluginCategory": [
@@ -93,6 +96,7 @@
     "pluginLicense": "GPL-3.0-or-later",
     "pluginIcon": "",
     "pluginVT": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-    "pluginHash": "NeverGonnaGiveYouUp"
+    "pluginHash": "NeverGonnaGiveYouUp",
+    "pluginStars": "3"
   }
 ]
