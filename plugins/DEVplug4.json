@@ -1,22 +1,20 @@
-  {
+    {
     "pluginName": "Plugin2",
-    "pluginVer": "3.4.5",
+    "pluginVer": "1.1.2",
     "pluginZip": "https://github.com/UserName/PluginName/releases/download/1.0.0/PluginName-1.0.0.zip",
     "autoUpdateEnabled": false,
     "autoInstallEnabled": false,
     "pluginAuthors": [
-      "Kevin"
+      "Bobby TwoShits"
     ],
     "pluginMainLink": "https://github.com/UserName/PluginName",
-    "pluginLastUpdate": "2025-12-26",
-    "pluginDirName": "plugin1",
+    "pluginLastUpdate": "2025-11-13",
+    "pluginDirName": "afdafda",
     "pluginCategory": [
-      "Navigation",
-      "Exploration",
-      "Engineering"
+      "Combat"
     ],
     "pluginDesc": "A single line about what this plugin does here.",
-    "pluginLastTestedEDMC": "6.0.5",
+    "pluginLastTestedEDMC": "5.9.5",
     "pluginRequirements": [],
     "pluginLicense": "GPL-3.0-or-later",
     "pluginIcon": "",
