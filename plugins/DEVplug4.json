@@ -15,7 +15,7 @@
     ],
     "pluginDesc": "A single line about what this plugin does here.",
     "pluginLastTestedEDMC": "5.9.5",
-    "pluginRequirements": [],
+    "pluginRequirements": ["A puppy", "two turtledoves"],
     "pluginLicense": "GPL-3.0-or-later",
     "pluginIcon": "",
     "pluginVT": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
