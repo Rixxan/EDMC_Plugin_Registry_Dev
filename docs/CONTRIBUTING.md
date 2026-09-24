@@ -6,7 +6,7 @@ Listing a plugin is as simple as submitting a PR with the details of a new plugi
 
 Before submitting a plugin, please review the standards in [STANDARDS.md](/docs/STANDARDS.md). Ensure that your plugin follows all of the standards expected. 
 
-After review, and ensuring that your plugin meets all the standards, you can open a new PR. For new plugins, you will want this PR to include a new .json file with the details of the plugin you wish to list. Be sure to fill this out completely. You can view an example of the format we expect the JSON file to be in [example.json](/docs/example.json). 
+After reviewing and ensuring that your plugin meets all standards in [STANDARDS.md](/docs/STANDARDS.md), you can open a new PR. For new plugins, you will want this PR to include a new .json file with the details of the plugin you wish to list. Be sure to fill this out completely. You can view an example of the format we expect the JSON file to be in [example.json](/docs/example.json). 
 
 ### Required Fields:
 The current fields expected are:
